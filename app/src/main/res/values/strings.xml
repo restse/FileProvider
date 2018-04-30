@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android7</string>
+    <string name="open_camera">打开相机</string>
+    <string name="open_gallery">打开相册</string>
+</resources>
